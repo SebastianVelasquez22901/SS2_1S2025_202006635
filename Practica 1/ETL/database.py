@@ -21,7 +21,10 @@ def execute_query(query, database=None):
         try:
             cursor = conn.cursor()
             cursor.execute(query)
-            result = cursor.fetchall()
+            if cursor.description:  # Verifica si la consulta devuelve resultados
+                result = cursor.fetchall()
+            else:
+                result = None
             cursor.close()
             conn.close()
             print("Operación exitosa")
