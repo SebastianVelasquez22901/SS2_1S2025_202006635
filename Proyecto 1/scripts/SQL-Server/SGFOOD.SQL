@@ -41,7 +41,7 @@ GO
 
 CREATE TABLE Dim_Fecha (
     id_fecha INT PRIMARY KEY,
-    fecha DATE,
+    fecha DATETIME,
     dia INT,
     mes INT,
     trimestre INT,
