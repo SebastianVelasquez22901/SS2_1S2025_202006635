@@ -1,0 +1,4 @@
+ISNULL(CodVendedor) || TRIM(CodVendedor) == "" ? "V000" : TRIM(CodVendedor),
+ISNULL(CodigoCliente) || TRIM(CodigoCliente) == "" ? "C000" : TRIM(CodigoCliente)
+ISNULL(CodProducto) || TRIM(CodProducto) == "" ? "P000" : TRIM(CodProducto)
+ISNULL(SodSucursal) || TRIM(SodSucursal) == "" ? "S000" : TRIM(SodSucursal)
