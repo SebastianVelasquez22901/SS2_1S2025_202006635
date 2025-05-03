@@ -1,4 +1,4 @@
-# Documentación del Proyecto: SGFood
+# Documentación del Proyecto: Sistema de Business Intelligence para SG-Food
 
 ## Descripción General
 El proyecto **SGFood** implementa un modelo de datos para un sistema de análisis de ventas y compras, utilizando un esquema de Data Warehouse basado en tablas de hechos y dimensiones. Este modelo permite realizar análisis detallados de las operaciones comerciales, integrándose con herramientas como **SQL Server Analysis Services (SSAS)**, **SQL Server Reporting Services (SSRS)** y **Power BI**.
@@ -11,7 +11,7 @@ El proyecto **SGFood** implementa un modelo de datos para un sistema de análisi
 El modelo de datos sigue un esquema de constelación de hechos, donde las tablas de hechos (`Hechos_Ventas` y `Hechos_Compras`) están relacionadas con múltiples tablas de dimensiones. Esto permite realizar análisis desde diferentes perspectivas.
 
 #### **Diagrama del Modelo**
-![Modelo de Constelación](Documentacion/img/constelacion.png)
+![Modelo de Constelación](/img/constelacion.png)
 
 #### **Descripción del Modelo**
 1. **Tablas de Dimensiones**:
@@ -31,6 +31,9 @@ El modelo de datos sigue un esquema de constelación de hechos, donde las tablas
    - Esto permite realizar análisis multidimensionales, como ventas por región, compras por proveedor, etc.
 
 ---
+
+#### **Cubo**
+![Modelo de Constelación](/img/Cubo.png)
 
 ## Tablas de Dimensiones
 
@@ -133,6 +136,43 @@ Se han creado índices para optimizar las consultas en las tablas de hechos:
 - `idx_sucursal_compras`: Índice en la columna `id_sucursal`.
 
 ---
+
+### Imagen del Dashboard
+![Dashboard en Power BI](./img/POWERBI.png)
+
+Este dashboard muestra por medio de la herramienta de power bi como se pueden obtener datos dinamicos que el usuario puede ir manipulando y asi poder tomar las mejores decisiones para su proximo movimiento en tema financiero.
+---
+
+## Consultas SQL de Ejemplo
+
+### Total de Ventas por Región
+```sql
+SELECT 
+    S.region,
+    SUM(HV.unidades * HV.precio_unitario) AS total_ventas
+FROM 
+    Hechos_Ventas HV
+JOIN 
+    Dim_Sucursal S ON HV.id_sucursal = S.id_sucursal
+GROUP BY 
+    S.region;
+```
+
+### Total de Compras por Proveedor
+```sql
+SELECT 
+    P.nombre_proveedor,
+    SUM(HC.unidades * HC.costo_unitario) AS total_compras
+FROM 
+    Hechos_Compras HC
+JOIN 
+    Dim_Proveedor P ON HC.id_proveedor = P.id_proveedor
+GROUP BY 
+    P.nombre_proveedor;
+```
+
+---
+
 
 ## Conclusión
 El modelo de datos de **SGFood** permite realizar análisis detallados de las operaciones comerciales, integrándose con herramientas de BI para generar reportes y dashboards interactivos. Este diseño optimiza el rendimiento y facilita la toma de decisiones basada en datos.
