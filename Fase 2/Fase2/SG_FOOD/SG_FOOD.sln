@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "SG_FOOD", "SG_FOOD\SG_FOOD.dwproj", "{B795AD5F-DD87-88CF-685C-134B7975B4AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B795AD5F-DD87-88CF-685C-134B7975B4AE}.Development|Default.ActiveCfg = Development
+		{B795AD5F-DD87-88CF-685C-134B7975B4AE}.Development|Default.Build.0 = Development
+		{B795AD5F-DD87-88CF-685C-134B7975B4AE}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D59E328-E100-4B48-BE2A-019B24C92447}
+	EndGlobalSection
+EndGlobal

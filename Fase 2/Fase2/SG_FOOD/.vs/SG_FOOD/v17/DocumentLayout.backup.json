@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SBGam\\OneDrive\\Documentos\\Primer semestre 2025\\Semi2\\Fase2\\SG_FOOD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B795AD5F-DD87-88CF-685C-134B7975B4AE}|SG_FOOD\\SG_FOOD.dwproj|C:\\Users\\SBGam\\OneDrive\\Documentos\\Primer semestre 2025\\Semi2\\Fase2\\SG_FOOD\\SG_FOOD\\DWH SGFOOD.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{B795AD5F-DD87-88CF-685C-134B7975B4AE}|SG_FOOD\\SG_FOOD.dwproj|solutionrelative:SG_FOOD\\DWH SGFOOD.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B795AD5F-DD87-88CF-685C-134B7975B4AE}|SG_FOOD\\SG_FOOD.dwproj|C:\\Users\\SBGam\\OneDrive\\Documentos\\Primer semestre 2025\\Semi2\\Fase2\\SG_FOOD\\SG_FOOD\\Dim Fecha.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{B795AD5F-DD87-88CF-685C-134B7975B4AE}|SG_FOOD\\SG_FOOD.dwproj|solutionrelative:SG_FOOD\\Dim Fecha.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B795AD5F-DD87-88CF-685C-134B7975B4AE}|SG_FOOD\\SG_FOOD.dwproj|C:\\Users\\SBGam\\OneDrive\\Documentos\\Primer semestre 2025\\Semi2\\Fase2\\SG_FOOD\\SG_FOOD\\Dim Cliente.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{B795AD5F-DD87-88CF-685C-134B7975B4AE}|SG_FOOD\\SG_FOOD.dwproj|solutionrelative:SG_FOOD\\Dim Cliente.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B795AD5F-DD87-88CF-685C-134B7975B4AE}|SG_FOOD\\SG_FOOD.dwproj|C:\\Users\\SBGam\\OneDrive\\Documentos\\Primer semestre 2025\\Semi2\\Fase2\\SG_FOOD\\SG_FOOD\\Dim Producto.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{B795AD5F-DD87-88CF-685C-134B7975B4AE}|SG_FOOD\\SG_FOOD.dwproj|solutionrelative:SG_FOOD\\Dim Producto.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B795AD5F-DD87-88CF-685C-134B7975B4AE}|SG_FOOD\\SG_FOOD.dwproj|C:\\Users\\SBGam\\OneDrive\\Documentos\\Primer semestre 2025\\Semi2\\Fase2\\SG_FOOD\\SG_FOOD\\Dim Sucursal.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{B795AD5F-DD87-88CF-685C-134B7975B4AE}|SG_FOOD\\SG_FOOD.dwproj|solutionrelative:SG_FOOD\\Dim Sucursal.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B795AD5F-DD87-88CF-685C-134B7975B4AE}|SG_FOOD\\SG_FOOD.dwproj|C:\\Users\\SBGam\\OneDrive\\Documentos\\Primer semestre 2025\\Semi2\\Fase2\\SG_FOOD\\SG_FOOD\\Dim Vendedor.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{B795AD5F-DD87-88CF-685C-134B7975B4AE}|SG_FOOD\\SG_FOOD.dwproj|solutionrelative:SG_FOOD\\Dim Vendedor.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B795AD5F-DD87-88CF-685C-134B7975B4AE}|SG_FOOD\\SG_FOOD.dwproj|C:\\Users\\SBGam\\OneDrive\\Documentos\\Primer semestre 2025\\Semi2\\Fase2\\SG_FOOD\\SG_FOOD\\Dim Proveedor.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{B795AD5F-DD87-88CF-685C-134B7975B4AE}|SG_FOOD\\SG_FOOD.dwproj|solutionrelative:SG_FOOD\\Dim Proveedor.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dim Cliente.dim [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\SBGam\\OneDrive\\Documentos\\Primer semestre 2025\\Semi2\\Fase2\\SG_FOOD\\SG_FOOD\\Dim Cliente.dim",
+              "RelativeDocumentMoniker": "SG_FOOD\\Dim Cliente.dim",
+              "ToolTip": "C:\\Users\\SBGam\\OneDrive\\Documentos\\Primer semestre 2025\\Semi2\\Fase2\\SG_FOOD\\SG_FOOD\\Dim Cliente.dim [Dise\u00F1o]",
+              "RelativeToolTip": "SG_FOOD\\Dim Cliente.dim [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-03T03:14:08.138Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dim Vendedor.dim [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\SBGam\\OneDrive\\Documentos\\Primer semestre 2025\\Semi2\\Fase2\\SG_FOOD\\SG_FOOD\\Dim Vendedor.dim",
+              "RelativeDocumentMoniker": "SG_FOOD\\Dim Vendedor.dim",
+              "ToolTip": "C:\\Users\\SBGam\\OneDrive\\Documentos\\Primer semestre 2025\\Semi2\\Fase2\\SG_FOOD\\SG_FOOD\\Dim Vendedor.dim [Dise\u00F1o]",
+              "RelativeToolTip": "SG_FOOD\\Dim Vendedor.dim [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-03T03:14:00.027Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dim Fecha.dim [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\SBGam\\OneDrive\\Documentos\\Primer semestre 2025\\Semi2\\Fase2\\SG_FOOD\\SG_FOOD\\Dim Fecha.dim",
+              "RelativeDocumentMoniker": "SG_FOOD\\Dim Fecha.dim",
+              "ToolTip": "C:\\Users\\SBGam\\OneDrive\\Documentos\\Primer semestre 2025\\Semi2\\Fase2\\SG_FOOD\\SG_FOOD\\Dim Fecha.dim [Dise\u00F1o]",
+              "RelativeToolTip": "SG_FOOD\\Dim Fecha.dim [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-03T03:11:16.719Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DWH SGFOOD.cube [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\SBGam\\OneDrive\\Documentos\\Primer semestre 2025\\Semi2\\Fase2\\SG_FOOD\\SG_FOOD\\DWH SGFOOD.cube",
+              "RelativeDocumentMoniker": "SG_FOOD\\DWH SGFOOD.cube",
+              "ToolTip": "C:\\Users\\SBGam\\OneDrive\\Documentos\\Primer semestre 2025\\Semi2\\Fase2\\SG_FOOD\\SG_FOOD\\DWH SGFOOD.cube [Dise\u00F1o]",
+              "RelativeToolTip": "SG_FOOD\\DWH SGFOOD.cube [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-03T03:08:47.352Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dim Sucursal.dim [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\SBGam\\OneDrive\\Documentos\\Primer semestre 2025\\Semi2\\Fase2\\SG_FOOD\\SG_FOOD\\Dim Sucursal.dim",
+              "RelativeDocumentMoniker": "SG_FOOD\\Dim Sucursal.dim",
+              "ToolTip": "C:\\Users\\SBGam\\OneDrive\\Documentos\\Primer semestre 2025\\Semi2\\Fase2\\SG_FOOD\\SG_FOOD\\Dim Sucursal.dim [Dise\u00F1o]",
+              "RelativeToolTip": "SG_FOOD\\Dim Sucursal.dim [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-03T03:10:22.646Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dim Producto.dim [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\SBGam\\OneDrive\\Documentos\\Primer semestre 2025\\Semi2\\Fase2\\SG_FOOD\\SG_FOOD\\Dim Producto.dim",
+              "RelativeDocumentMoniker": "SG_FOOD\\Dim Producto.dim",
+              "ToolTip": "C:\\Users\\SBGam\\OneDrive\\Documentos\\Primer semestre 2025\\Semi2\\Fase2\\SG_FOOD\\SG_FOOD\\Dim Producto.dim [Dise\u00F1o]",
+              "RelativeToolTip": "SG_FOOD\\Dim Producto.dim [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-03T03:10:46.667Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dim Proveedor.dim [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\SBGam\\OneDrive\\Documentos\\Primer semestre 2025\\Semi2\\Fase2\\SG_FOOD\\SG_FOOD\\Dim Proveedor.dim",
+              "RelativeDocumentMoniker": "SG_FOOD\\Dim Proveedor.dim",
+              "ToolTip": "C:\\Users\\SBGam\\OneDrive\\Documentos\\Primer semestre 2025\\Semi2\\Fase2\\SG_FOOD\\SG_FOOD\\Dim Proveedor.dim [Dise\u00F1o]",
+              "RelativeToolTip": "SG_FOOD\\Dim Proveedor.dim [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-03T03:10:59.559Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
